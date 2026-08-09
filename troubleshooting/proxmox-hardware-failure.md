@@ -39,7 +39,7 @@ Rather than immediately replacing additional components, I used the existing Pro
 
 The replacement computer successfully booted the existing Proxmox installation, confirming that the boot drive and Proxmox installation were still functional. However, a separate network configuration issue occurred after the hardware change and required additional troubleshooting. 
 
-[Additonal Troubleshooting](troubleshooting/proxmox-netowrk-failure.md)
+[Additonal-Troubleshooting](proxmox-network-failure.md)
 
 ### **Lessons Learned:**
 
