@@ -13,4 +13,4 @@ The remote-access system is intended to:
 - Reduce the need to expose SSH directly to the public internet
 - Provide a reliable way to access the server when away from the local network
 
-[Tailscale Testing](testing/tailscale.md)
+[Tailscale Testing](/testing/tailscale.md)
