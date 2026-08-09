@@ -6,7 +6,7 @@ This document outlines how I will go about the troubleshooting process
 ## Troubleshooting Methodology
 When facing an issue, I will follow this procedure: 
 
-1. **Identify the action/behavior occurring **
+1. **Identify the action/behavior occurring**
 2. **Define expected behavior**
 3. **Look at system information and relevant logs**
 4. **Single out faulty component**
